@@ -5,6 +5,9 @@
 > **Marks Evaluation:** 20 Marks (5 Deliverables × 4 Marks)  
 > **Target Transit Network:** Greenfield City Transit System  
 
+🌐 **Direct Live Website (GitHub Pages):** [https://poojathakare123.github.io/busbuddy-ai/](https://poojathakare123.github.io/busbuddy-ai/)  
+🐙 **GitHub Source Code:** [https://github.com/poojathakare123/busbuddy-ai](https://github.com/poojathakare123/busbuddy-ai)  
+
 ---
 
 ## 📌 Project Overview

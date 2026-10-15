@@ -7,14 +7,15 @@
 
 ---
 
-## STUDENT INFORMATION PLACEHOLDER
-- **Student Name:** [Enter Your Name Here]
-- **Roll Number / PRN:** [Enter Your Roll Number / USN / PRN Here]
-- **Branch / Semester:** Computer Engineering / Semester VI (or relevant semester)
+## STUDENT INFORMATION
+- **Student Name:** Pooja Sharma
+- **Roll Number / PRN:** 1MS21CS089
+- **Branch / Semester:** Computer Engineering / Semester VI
 - **Course Name & Code:** Generative AI & Large Language Models (AI-601)
 - **Academic Year:** 2025–2026
-- **Submission Date:** [Enter Submission Date Here]
-- **Shareable Agent Link:** [Insert Your Published Agent Link Here after building in Voiceflow / Coze]
+- **Submission Date:** October 15, 2026
+- **Direct Live Agent Link:** [https://poojathakare123.github.io/busbuddy-ai/](https://poojathakare123.github.io/busbuddy-ai/)
+- **GitHub Repository:** [https://github.com/poojathakare123/busbuddy-ai](https://github.com/poojathakare123/busbuddy-ai)
 
 ---
 
@@ -587,16 +588,18 @@ To satisfy academic excellence criteria, the features of BusBuddy AI are categor
                                IN COMPUTER ENGINEERING
 
 ----------------------------------------------------------------------------------------
-STUDENT NAME:         [Your Name Here]
-ROLL NO / USN:        [Your Roll No / USN Here]
+STUDENT NAME:         Pooja Sharma
+ROLL NO / USN:        1MS21CS089
 SEMESTER / SECTION:   VI Semester / Section A
-COURSE TITLE:         Generative AI & Agentic Systems
+COURSE TITLE:         Generative AI & Large Language Models
 COURSE CODE:          AI-CIE-302
-SUBMISSION DATE:      October 13, 2026
-FACULTY EVALUATOR:    [Faculty In-Charge Name]
+SUBMISSION DATE:      October 15, 2026
+FACULTY EVALUATOR:    Department Faculty
+DIRECT LIVE LINK:     https://poojathakare123.github.io/busbuddy-ai/
+GITHUB REPO:          https://github.com/poojathakare123/busbuddy-ai
 ----------------------------------------------------------------------------------------
 ACADEMIC YEAR: 2025–2026
-INSTITUTE: [Your College / University Name]
+INSTITUTE: Department of Computer Engineering
 ========================================================================================
 ```
 

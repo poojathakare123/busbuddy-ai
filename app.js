@@ -668,7 +668,7 @@ document.addEventListener('DOMContentLoaded', () => {
     dispStudentName.textContent = inpStudentName.value || 'Pooja Sharma';
     dispRollNumber.textContent = inpRollNumber.value || '1MS21CS089';
     dispCollege.textContent = inpCollegeName.value || 'DEPARTMENT OF COMPUTER ENGINEERING';
-    dispAgentUrl.textContent = inpAgentUrl.value || 'https://creator.voiceflow.com/prototype/busbuddy-ai';
+    dispAgentUrl.textContent = inpAgentUrl.value || 'https://poojathakare123.github.io/busbuddy-ai/';
   }
 
   inpStudentName.addEventListener('input', syncStudentInfo);
