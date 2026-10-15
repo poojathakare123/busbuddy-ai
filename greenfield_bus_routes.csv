@@ -1,0 +1,11 @@
+Route_Number,Route_Name,Source,Destination,Intermediate_Stops,Duration_Minutes,Standard_Fare_INR,Frequency,Service_Hours,Route_Type
+101,Tech Express,Central Railway Station,City Tech Park,"Market Yard, Gandhi Circle, Cyber Gateway",35,25,Every 10 mins,06:00 AM - 10:30 PM,Direct Express
+101A,Tech Local,Central Railway Station,City Tech Park,"Market Yard, Old Cantonment, Gandhi Circle, South Gate, Cyber Gateway",50,20,Every 20 mins,06:30 AM - 09:30 PM,Regular Local
+204,Campus Shuttle,Greenfield University,North Lake Park,"Science Institute, Central Library, Botanical Gardens",25,15,Every 15 mins,07:00 AM - 09:00 PM,Direct
+305,Health Link,Metro Mall,Civil Hospital,"Ring Road Junction, City Plaza, East Gate",30,20,Every 12 mins,05:30 AM - 11:00 PM,Direct
+305X,Health FastTrack,Metro Mall,Civil Hospital,Ring Road Flyover (Non-stop direct),18,30,Every 30 mins,08:00 AM - 08:00 PM,Express Limited Stop
+402,Airport Flybus,South Bus Depot,Airport Terminal 1,"South Extension, Highway Toll, Aerocity Complex",45,60,Every 20 mins,24 Hours Round-the-clock,AC Premium
+503,Lake to Market,North Lake Park,Market Yard,"Rose Valley, Civic Center, Railway West",40,25,Every 15 mins,06:00 AM - 10:00 PM,Regular
+601,Metro Feeder,Central Railway Station,Metro Mall,"Clock Tower, Old Post Office, Mall West Gate",20,15,Every 8 mins,06:00 AM - 11:30 PM,High-Frequency Feeder
+708,University Express,South Bus Depot,Greenfield University,"South Ring Road, Sports Complex, University Gate 2",35,25,Every 20 mins,07:30 AM - 08:30 PM,Direct Regular
+809,Aerocity Connector,City Tech Park,Airport Terminal 1,"Cyber Gateway, East Expressway, Aerocity Complex",30,45,Every 25 mins,06:00 AM - 10:00 PM,Direct AC
